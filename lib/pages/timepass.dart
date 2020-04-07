@@ -135,6 +135,7 @@ class _LoginState extends State<Login> {
                                     isDense: true,
                                     hintText: "Email",
                                     icon: Icon(Icons.email),
+                                      border: InputBorder.none
 
 //                                  border: OutlineInputBorder(),
                                   ),
@@ -172,6 +173,7 @@ class _LoginState extends State<Login> {
                                   isDense: true,
                                   hintText: "Password",
                                   icon: Icon(Icons.lock_outline),
+                                    border: InputBorder.none
 
 //                                  border: OutlineInputBorder(),
                                 ),
@@ -194,7 +196,7 @@ class _LoginState extends State<Login> {
                           padding: const EdgeInsets.fromLTRB(14, 8,14, 8),
                           child: Material(
                             borderRadius: BorderRadius.circular(20.0),
-                            color: Colors.blue,
+                            color: Colors.red,
                             elevation: 0.0,
                             child:  MaterialButton(
                               onPressed: (){},
