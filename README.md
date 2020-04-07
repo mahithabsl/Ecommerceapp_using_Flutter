@@ -1,8 +1,4 @@
-# ecommerce
-
-Ecommerce Mobile app developed using flutter
-
-## Getting Started
+# Ecommerce Mobile app developed using flutter
 
 This project is a starting point for a Flutter application.
 
