@@ -1,6 +1,6 @@
 # ecommerce
 
-Ecommerce Mobile app using flutter
+Ecommerce Mobile app developed using flutter
 
 ## Getting Started
 
